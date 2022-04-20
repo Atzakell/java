@@ -3,16 +3,8 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Concatenaciones",
+            "name": "Launch Java Program",
             "request": "launch",
-            "mainClass": "Concatenaciones",
-            "projectName": "Teoria-Practica_9a93e445"
-        },
-        {
-            "type": "java",
-            "name": "Launch External Terminal",
-            "request": "launch",
-            "console": "externalTerminal",
             "mainClass": ""
         }
     ]
