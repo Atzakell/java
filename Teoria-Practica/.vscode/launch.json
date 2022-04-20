@@ -3,17 +3,17 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch variables",
+            "name": "Launch Concatenaciones",
             "request": "launch",
-            "mainClass": "variables",
+            "mainClass": "Concatenaciones",
             "projectName": "Teoria-Practica_9a93e445"
         },
         {
             "type": "java",
-            "name": "Debug (Launch) with Assertions Enabled",
+            "name": "Launch External Terminal",
             "request": "launch",
-            "mainClass": "variables",
-            "vmArgs": "-ea"
+            "console": "externalTerminal",
+            "mainClass": ""
         }
     ]
 }
