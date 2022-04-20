@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Scanneo",
+            "request": "launch",
+            "mainClass": "Scanneo",
+            "projectName": "Teoria-Practica_9a93e445"
+        },
+        {
+            "type": "java",
             "name": "Launch Java Program",
             "request": "launch",
             "mainClass": ""
