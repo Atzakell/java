@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Debug (Launch) with Assertions Enabled",
+            "request": "launch",
+            "mainClass": "com.myapp.Main",
+            "vmArgs" : "-ea" //it accepts a string or an array of strings
+        }
+    ]
+}
