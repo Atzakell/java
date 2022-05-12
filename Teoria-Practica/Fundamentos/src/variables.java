@@ -22,9 +22,9 @@ public class variables {
         System.out.println(mismaVariableEntera2);
         
         //!Valores permitidos
-        var myvarb = 1;
-        var _myvarb = 2;
-        var $myvarb = 3;
+        var myvarb = 123;
+        var _myvarb = 232;
+        var $myvarb = 321;
         System.out.println(myvarb);
         System.out.println(_myvarb);
         System.out.println($myvarb);
