@@ -1,3 +1,5 @@
+package Variables;
+
 import java.util.Scanner;
 
 public class Scanneo {
